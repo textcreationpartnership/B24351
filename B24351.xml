@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An old song of the old courtier of the kings, with a new song of a new courtier of the kings. The tune is, The Queens old courtier.</title>
+            <author>Howard, Thomas, 17th/18th cent.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24351</idno><idno type="EEBO-CITATION">99884614</idno>
+  <idno type="VID">192645</idno>
+  <idno type="EEBO-PROQUEST">2240885246</idno>
+  
+            <idno type="STC">Wing H3011</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.9[72]</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.9[73]</idno>
+            <idno type="STC">ESTC R216052</idno>
+            <idno type="PROQUEST">ocm99884614</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99884614e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24351)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192645)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A6:1[46])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An old song of the old courtier of the kings, with a new song of a new courtier of the kings. The tune is, The Queens old courtier.</title>
+                  <author>Howard, Thomas, 17th/18th cent.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Coles, in Wine-street, on Saffron-Hill, near Hatton-Garden,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1670?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Written by T. Howard, Gent.</note>
+                  <note>Verse: "An old song made, of an old".</note>
+                  <note>Date of publication from Wing CD-ROM, 1996.</note>
+                  <note>In two parts, printed side by side.</note>
+                  <note>Copy cut and mounted.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Courts and courtiers --  Early works to 1800.</term>
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:192645:1"/>
+            <head>An Old Song of the Old Courtier of the Kings, With a New Song of a new Courtier of the Kings.</head>
+            <opener>The Tune is, The Queens Old Courtier.</opener>
+            <p>
+               <figure>
+                  <figDesc>woodcut of new courtier</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>woodcut of old courtier</figDesc>
+               </figure>
+            </p>
+            <sp>
+               <speaker>Old.</speaker>
+               <l>AN old song made, of an Old aged pate,</l>
+               <l>Of an old Gentlemen, who had a wealthy estate;</l>
+               <l>Who kept an old House, at a bountiful rats,</l>
+               <l>
+                  <hi>Like an old Courtier of the Kings,</hi>
+               </l>
+               <l>
+                  <hi>And the Kings old courtier.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>New.</speaker>
+               <l>A new flourishing Gallant newly come to his Land,</l>
+               <l>And can take up a thousand pound on his own new Band,</l>
+               <l>Who keeps two painted creatures at his own command,</l>
+               <l>
+                  <hi>Like a new courtier of the Kings,</hi>
+               </l>
+               <l>
+                  <hi>And the Kings new courtier.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Old.</speaker>
+               <l>An old Lady whose anger, one word asswages,</l>
+               <l>And every quarter pays her old Servants their wages,</l>
+               <l>Who never knew what belongs to Coach, Footmen, nor Pages,</l>
+               <l>But keeps fifty two stout fellows in blew Coats and badges,</l>
+               <l>
+                  <hi>Like an old courtier, &amp;c.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>N w.</speaker>
+               <l>A new Lady whose face is beauti<g ref="char:EOLhyphen"/>ful and fair,</l>
+               <l>And never knew what belong to house-keeping nor care;</l>
+               <l>But buys a new Fan to play with the wanton Air,</l>
+               <l>And several new dressings of other womens hair.</l>
+               <l>
+                  <hi>Like a new courtier, &amp;c.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Old.</speaker>
+               <l>An old Hall hung round, with Pikes, Bills, and Bowes,</l>
+               <l>Swords, blades, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd bucklers, that have endured stout blows,</l>
+               <l>And an old Frizadow Coat to cover his worships Trunck-hose,</l>
+               <l>And an old cup of Sherry to bur<g ref="char:EOLhyphen"/>nish up his honourable Nose,</l>
+               <l>
+                  <hi>Like an old courtier, &amp;c.</hi>
+               </l>
+            </sp>
+            <div n="2" type="part">
+               <pb facs="tcp:192645:1"/>
+               <head>The second Part, to the same tune.</head>
+               <sp>
+                  <speaker>New.</speaker>
+                  <l>A New Hall built where the Old Hall stood,</l>
+                  <l>Hung round with pictures, that does the poor but little good,</l>
+                  <l>And a new Chimney that never burnt Cole nor Wood,</l>
+                  <l>And a new Shufle-board-table whereon meat never stood.</l>
+                  <l>
+                     <hi>Like a new Courtier of the Kings,</hi>
+                  </l>
+                  <l>
+                     <hi>And the Kings new courtier.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Old.</speaker>
+                  <l>And an old Study stuft full of Old, learned books,</l>
+                  <l>And an old reverend Chaplain, you might know him by his looke</l>
+                  <l>And an old Kitching that main<g ref="char:EOLhyphen"/>tains half a dozen old Cooks,</l>
+                  <l>And an old buttry hatch worn of the old hooks,</l>
+                  <l>
+                     <hi>Like an old courtier, &amp;c.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>New.</speaker>
+                  <l>A new study stuft full of Pam<g ref="char:EOLhyphen"/>phlets and plays,</l>
+                  <l>And a new drunken Chaplain swears faster then he prays.</l>
+                  <l>And a new battery hatch opens once in four or five days,</l>
+                  <l>
+                     <hi>Like a new courtier, &amp;c.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Old.</speaker>
+                  <l>An old faulkner, a Huntsman, and a kennel of hounds,</l>
+                  <l>And his worship did never hawk nor hunt,</l>
+                  <l>But in his Grane-Fathers grounds,</l>
+                  <l>And when he dyed left every child, a thousand of old pounds,</l>
+                  <l>
+                     <hi>Like an old courtier, &amp;c.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>New.</speaker>
+                  <l>A new fashion when Christmas was drawing on,</l>
+                  <l>This new Knight and his Lady to <hi>London</hi> must be gone,</l>
+                  <l>And left none at home, but the new Porter <hi>John,</hi>
+                  </l>
+                  <l>To relieve poor people with a thump on the back with a cold stone,</l>
+                  <l>
+                     <hi>Like a new courtier, &amp;c.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Old.</speaker>
+                  <l>An old fashion when Christmas was drawing on,</l>
+                  <l>Calls all his Neighbours and tenants together with bagpipe and drum,</l>
+                  <l>And meat enough to furnish every old room,</l>
+                  <l>And Beer that will make a Cat speak, and a wise man dumb.</l>
+                  <l>
+                     <hi>Like an old courtier, &amp;c.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Old.</speaker>
+                  <l>And when he dyed, to his Son and heir he assign'd,</l>
+                  <l>To be good to his Neighbors, and to his Tennants kind.</l>
+                  <l>And to keep still the same bountiful mind,</l>
+                  <l>
+                     <hi>Like an old courtier, &amp;c.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>New.</speaker>
+                  <l>A new Gentleman Vsher, whose carriage is compleat,</l>
+                  <l>And the Coachman, Greams, &amp; Foot<g ref="char:EOLhyphen"/>men to carry up th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eat,</l>
+                  <l>And when they din'd loft them little to eat.</l>
+                  <l>
+                     <hi>Like a new Courtier of the Kings,</hi>
+                  </l>
+                  <l>
+                     <hi>And the Kings new courtier.</hi>
+                  </l>
+               </sp>
+            </div>
+            <trailer>FINIS.</trailer>
+            <byline>Written by T. Howard, G<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t.</byline>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, Printed for F. <hi>Coles,</hi> in Wine-street, on Saffron-Hill, neer Hatton-Garden.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
